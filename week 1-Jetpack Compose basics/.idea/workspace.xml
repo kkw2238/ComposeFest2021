@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="121f18e2-17f5-4a5b-97fa-81906aaf0ec1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/androidTest/java/com/example/basicscodelab/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/java/com/example/basicscodelab/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/java/com/example/basicscodelab/SampleData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/java/com/example/basicscodelab/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/java/com/example/basicscodelab/ui/theme/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/java/com/example/basicscodelab/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/java/com/example/basicscodelab/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/test/java/com/example/basicscodelab/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/java/com/codelab/basics/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/java/com/codelab/basics/ui/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/java/com/codelab/basics/ui/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/java/com/codelab/basics/ui/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/java/com/codelab/basics/ui/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsCodelab/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsCodelab/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/androidTest/java/com/example/basicscoadlab/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/java/com/example/basicscoadlab/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/java/com/example/basicscoadlab/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/java/com/example/basicscoadlab/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/java/com/example/basicscoadlab/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/java/com/example/basicscoadlab/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/app/src/test/java/com/example/basicscoadlab/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/Jetpack Compose basics/BasicsCodelab/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21aUqKSIWULwzlzCxKwAbEYYXrM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="121f18e2-17f5-4a5b-97fa-81906aaf0ec1" name="Default Changelist" comment="" />
+      <created>1638178883943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638178883943</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -7,7 +7,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.example.basicscodelab"
+        applicationId "com.example.layoutsinjetpackcompose"
         minSdk 30
         targetSdk 30
         versionCode 1
