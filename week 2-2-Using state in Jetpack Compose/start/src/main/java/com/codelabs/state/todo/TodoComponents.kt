@@ -1,19 +1,3 @@
-/*
- * Copyright (C) 2020 The Android Open Source Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
-
 package com.codelabs.state.todo
 
 import androidx.annotation.StringRes
@@ -60,17 +44,6 @@ import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 
-/**
- * Draws a row of [TodoIcon] with visibility changes animated.
- *
- * When not visible, will collapse to 16.dp high by default. You can enlarge this with the passed
- * modifier.
- *
- * @param icon (state) the current selected icon
- * @param onIconChange (event) request the selected icon change
- * @param modifier modifier for this element
- * @param visible (state) if the icon should be shown
- */
 @OptIn(ExperimentalAnimationApi::class)
 @Composable
 fun AnimatedIconRow(
@@ -79,8 +52,6 @@ fun AnimatedIconRow(
     modifier: Modifier = Modifier,
     visible: Boolean = true,
 ) {
-    // remember these specs so they don't restart if recomposing during the animation
-    // this is required since TweenSpec restarts on interruption
     val enter = remember { fadeIn(animationSpec = TweenSpec(300, easing = FastOutLinearInEasing)) }
     val exit = remember { fadeOut(animationSpec = TweenSpec(100, easing = FastOutSlowInEasing)) }
     Box(modifier.defaultMinSize(minHeight = 16.dp)) {
@@ -94,13 +65,6 @@ fun AnimatedIconRow(
     }
 }
 
-/**
- * Displays a row of selectable [TodoIcon]
- *
- * @param icon (state) the current selected icon
- * @param onIconChange (event) request the selected icon change
- * @param modifier modifier for this element
- */
 @Composable
 fun IconRow(
     icon: TodoIcon,
@@ -119,14 +83,6 @@ fun IconRow(
     }
 }
 
-/**
- * Displays a single icon that can be selected.
- *
- * @param icon the icon to draw
- * @param onIconSelected (event) request this icon be selected
- * @param isSelected (state) selection state
- * @param modifier modifier for this element
- */
 @Composable
 private fun SelectableIconButton(
     icon: ImageVector,
@@ -166,14 +122,6 @@ private fun SelectableIconButton(
     }
 }
 
-/**
- * Draw a background based on [MaterialTheme.colors.onSurface] that animates resizing and elevation
- * changes.
- *
- * @param elevate draw a shadow, changes to this will be animated
- * @param modifier modifier for this element
- * @param content (slot) content to draw in the background
- */
 @Composable
 fun TodoItemInputBackground(
     elevate: Boolean,
@@ -193,14 +141,6 @@ fun TodoItemInputBackground(
     }
 }
 
-/**
- * Styled [TextField] for inputting a [TodoItem].
- *
- * @param text (state) current text to display
- * @param onTextChange (event) request the text change state
- * @param modifier the modifier for this element
- * @param onImeAction (event) notify caller of [ImeAction.Done] events
- */
 @OptIn(ExperimentalComposeUiApi::class)
 @Composable
 fun TodoInputText(
@@ -224,14 +164,6 @@ fun TodoInputText(
     )
 }
 
-/**
- * Styled button for [TodoScreen]
- *
- * @param onClick (event) notify caller of click events
- * @param text button text
- * @param modifier modifier for button
- * @param enabled enable or disable the button
- */
 @Composable
 fun TodoEditButton(
     onClick: () -> Unit,
