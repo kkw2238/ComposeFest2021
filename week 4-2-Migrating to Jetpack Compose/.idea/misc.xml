@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kkw22/Desktop/ComposeFest2021/week 4-2-Migrating to Jetpack Compose/app/src/main/res/layout/fragment_plant_detail.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/kkw22/Desktop/ComposeFest2021/week 4-2-Migrating to Jetpack Compose/app/src/main/res/layout/fragment_view_pager.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
